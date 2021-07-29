@@ -3,7 +3,7 @@ class TagManipulator():
         result = []
 
         # Split on comma
-        commaSepElems = tags.split(',', tags)
+        #commaSepElems = tags.split(',', tags)
 
         if len(tags) < 1 :
             return result
